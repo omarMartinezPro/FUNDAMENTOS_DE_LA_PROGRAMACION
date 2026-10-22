@@ -1,5 +1,7 @@
 # SEMANA 2 — DECISIONES, CICLOS Y CÓMO CAZAR BUGS
 
+
+
 **Curso:** Fundamentos de programación
 **Semana:** 2 · del lunes 19 al viernes 23 de octubre de 2026
 **Entrega de la Actividad 2:** viernes 23, 23:59 h
