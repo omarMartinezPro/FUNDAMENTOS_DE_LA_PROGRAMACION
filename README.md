@@ -31,3 +31,18 @@ Este repositorio contiene las actividades prácticas desarrolladas durante la se
 - Ciclo while.
 
 - Tabla de decisión y casos de prueba detallados.
+
+
+
+# El repositorio cuenta con los archivos de trabajo realizados en semana 3:
+En esta carpeta se encuentran los archivos del avance del proyecto realizados durante la semana 3.
+
+Se encuentra un archivo el cual es el que contiene las intrucciones de la actividad, tenemos el diagrama de flujo exportado en formato png, nuestro portotipo inicial del codigo al igual que nuetsro reporte en word que cubre los 8 requerimientos solicitados.
+
+- Diagrama de flujo.
+
+- Prototipo inicial del codigo.
+
+- Reporte en word.
+
+- Documento con instrucciones de la actividad.
