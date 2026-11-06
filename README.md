@@ -46,3 +46,16 @@ Se encuentra un archivo el cual es el que contiene las intrucciones de la activi
 - Reporte en word.
 
 - Documento con instrucciones de la actividad.
+
+# El repositorio cuenta con los archivos de trabajo realizados en semana 4:
+En esta carpeta se encuentran 2 archivos el primero son las instrucciones de como realizar la actividad de la tabla de pitagoras trabajada durante esta semana.
+
+- Actividad3_TablaPitagoras.
+
+En el segundo archivo se encuentra ya mi producto de trabajo terminado osea el programa realizado y terminado.
+
+- tabla_pitagoras.ipynb.
+
+
+
+
