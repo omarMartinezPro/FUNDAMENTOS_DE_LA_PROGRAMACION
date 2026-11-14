@@ -57,5 +57,15 @@ En el segundo archivo se encuentra ya mi producto de trabajo terminado osea el p
 - tabla_pitagoras.ipynb.
 
 
+# El repositorio cuenta con los archivos de trabajo realizados en semana 5:
+
+
+- Archivo: menu_modular.py, corresponde a la actividad 4 donde se desarrollo el pograma mostrar diferentes funciones dentro de un mismo codigo.
+
+- Mi carpeta al igual cuenta con el material de trabajo para esta semana para guiarme para mi trabajo de los temas dados.
+
+- Trabajamos con funciones como TUPLAS, DICCIONARIOS, EXCEPCIONES Y STRINGS.
+
+
 
 
