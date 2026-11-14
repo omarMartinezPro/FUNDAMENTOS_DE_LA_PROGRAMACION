@@ -66,6 +66,7 @@ En el segundo archivo se encuentra ya mi producto de trabajo terminado osea el p
 
 - Trabajamos con funciones como TUPLAS, DICCIONARIOS, EXCEPCIONES Y STRINGS.
 
+- Tengo mi archivo de los 25 ejersicios extras del castigo numero 2 realizados con sus respectivas salidas.
 
 
 
