@@ -8,7 +8,7 @@
 **Fecha límite:** viernes 27 de noviembre de 2026, 23:59 h (sin prórroga)
 **Evidencia de entrega:** liga pública de **tu mismo repositorio del curso**, con la carpeta `semana7/`
 
-> Esta semana **no hay ejercicios extra**. Los 12 ejercicios de clase son práctica y no se entregan. Toda la calificación está en tu proyecto.
+Esta semana **no hay ejercicios extra**. Los 12 ejercicios de clase son práctica y no se entregan. Toda la calificación está en tu proyecto.
 
 ---
 
