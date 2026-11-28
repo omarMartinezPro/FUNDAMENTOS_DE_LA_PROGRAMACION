@@ -68,5 +68,27 @@ En el segundo archivo se encuentra ya mi producto de trabajo terminado osea el p
 
 - Tengo mi archivo de los 25 ejersicios extras del castigo numero 2 realizados con sus respectivas salidas.
 
+# El repositorio cuenta con los archivos de trabajo realizados en semana 7:
+Durante esta semana grabaje en la realizacion de mi proyecto final el cual era mi programa para un restaurante, las modificaciones que le hice de acuerdo a mi avance fueron las siguientes....
+
+- modularizar el programa mediante funciones.
+- implementar tupla para el menú de platillos.
+- agregar validaciones para entradas del usuario.
+- implementar historial de mesas mediante archivos txt.
+- incorporar captura y validación de fechas.
+- agregar control de inactividad de 10 minutos.
+- organizar opciones del menú mediante matriz.
+- estructurar pedidos mediante tuplas.
+- implementar funciones de consulta y cálculo de pedidos.
+- validar distribución de pagos separados.
+- implementar manejo de excepciones.
+- integrar funciones mediante ejecutar_programa().
+
+
+
+Al igual que la semana7 contiene mi diagrama de flujo, mi codigo finalizado y mi documento.
+
+
+
 
 
